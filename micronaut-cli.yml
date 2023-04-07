@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.saltations
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jdbc, gradle, hibernate-validator, http-client, jackson-databind, java, java-application, jdbc-hikari, liquibase, logback, lombok, management, micronaut-build, mysql, netty-server, openapi, openrewrite, problem-json, reactor, reactor-http-client, readme, shade, spock, swagger-ui, testcontainers, yaml]
